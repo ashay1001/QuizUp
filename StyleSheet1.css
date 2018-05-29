@@ -1,0 +1,92 @@
+﻿body {
+padding-top:50px;
+
+}
+
+.bg-1 { 
+       background-color: #159d82; /* Green */
+        color: #ffffff;
+
+
+    }
+
+.bg-2 { 
+      background-color: #474e5d; /* Dark Blue */
+      color: #ffffff;
+      font-family:Candara;
+      font-size:123%;
+  }
+  .bg-3 { 
+      background-color: #ffffff; /* White */
+      color: #555555;
+      font-family:Candara;
+      font-size:123%;
+  }
+
+   .bg-4 { 
+    background-color: #2f2f2f;
+    color: #ffffff;
+    font-family:Candara;
+    font-size:123%;
+}
+
+  .bg-signup{
+      background-color:  #159d82; /* Green */
+        color: #ffffff;
+  }
+
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+  .container-fluid-signup{
+      padding-top: 40px;
+    padding-bottom: 40px;
+    
+  }
+
+  .container-fluid-login{
+      padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+
+  .container-fluid-session
+  {
+      padding-top: 70px;
+    padding-bottom: 20px;
+  }
+
+  .center-page {
+    width: 300px;
+    height: 86px;
+    top: -40px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    
+    
+}
+
+  .panel-default{
+background:#FFCCFF;}
+
+
+  .panel-body {
+background:#FFCCFF;}
+
+.qsn{
+
+    font-size:130%;
+    
+}
+
+.contact{
+    font-size:160%;
+}
+
+.about{
+    padding-bottom: 30px;
+}
